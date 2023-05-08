@@ -1,0 +1,22 @@
+{
+  "name": "restapi",
+  "version": "1.0.0",
+  "description": "dvdrental",
+  "main": "/src/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/DhruvinShiroya/dvdrental.git"
+  },
+  "keywords": [
+    "open"
+  ],
+  "author": "Dhruvinkumar shiroya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DhruvinShiroya/dvdrental/issues"
+  },
+  "homepage": "https://github.com/DhruvinShiroya/dvdrental#readme"
+}
